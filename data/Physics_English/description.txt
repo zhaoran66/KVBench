@@ -1,0 +1,53 @@
+1. Newton's Second Law experiment, the falling block accelerates the cart.
+2. Meaning of accurate and precise measurements. Four different sets of four measurements each are shown
+3. The weight of an object is always directed vertically downward.
+4. Particles in the solid phase oscillate about fixed positions but are not free to move inside the solid
+5. The electromagnetic spectrum
+6. Example of cylindrical and spherical wavefronts.
+7. Dispersion of white light passing through a prism.
+8. Waves in a ripple tank passing through an aperture, demonstrating the principle of diffraction.
+9. Double-slit interference for light.
+10. A simple circuit consisting of a battery, connecting wires and a resistor. Note that the battery has internal resistance. The current enters the circuit from the
+positive pole of the battery.
+11. Three resistors connected in parallel.
+12. This circuit uses a potential divider. The voltage and current in the device with resistance
+R can be varied by varying the point where the slider S is attached to the variable resistor
+13. The righthand grip rule for the magnetic fi eld
+around a solenoid. The fingers curl in the direction of the current.
+The thumb points in the direction of the magnetic field.
+14. The gravitational fi eld around a point (or spherical) mass is radial
+15. A coal-burning power plant.
+16. The mass-spring system. The net force on the body is proportional to the displacement and opposite to it
+17. The variation with displacement of the potential energy and kinetic energy of a mass on a spring. The total energy is a horizontal straight line.
+18. A. single slit intensity pattern showing the central maximum for thin rectangular slit. B. intensity pattern for a circular slit
+19. interference pattern in a thin film of oil floating on water.
+20. The electric potential due to two equal and opposite charges. The potential is proportional to the height of the surface.
+21. As the distance from the source doubles, the area presented to the source quadruples. The effect of the source per unit area decreases by a factor of 4.
+22. The definition of magnetic flux.
+23. Full wave rectification diode bridge.
+24. Two capacitors connected in parallel.
+25. Ray diagram.
+27. Parallax errors in measurements.
+28. Multiplication of vectors by a scalar.
+29. A real example of projectile motion
+30. The drag force on a moving car.
+31. Upthrust.
+32. Exaggerated view of how asperities oppose the sliding of one surface over the other.
+33. The total energy of a system may change as a result of interactions with its surroundings.
+34. In a collision with no external forces acting, the total momentum of the system stays the same.
+35. An outcome of the collision in which total kinetic energy stays the same.
+36. Exhaust gases from the booster rockets propel this space shuttle during its launch
+37. The hot metal is placed in the cold water in the calorimeter. The hot metal is removed from the container of boiling water and is quickly placed inside an insulated calorimeter containing cold water.
+38. A molecule has its momentum changed when it collides with a wall. A force is exerted on the molecule and so the molecule exerts an equal and opposite force on the wall.
+39. Apparatus for investigating the pressure-volume law. The pump forces oil to move up the tube, decreasing the volume of air. 
+40. Apparatus for verifying the volume-temperature law.
+41. A continuous wave traveling along the rope.
+42. Reflection of a pulse from a. A fixed end and b. A green end. Notice the inversion in the case of the fixed end.
+43. A ray of light incident on the interface of two media partly reflects and partly refracts
+44. In a conductor there are many free electrons that move around much like molecules of a gas.
+45. Redistribution of charge in a conductor accelerated to the right.
+46. The process of calculating resistance for parallel and series connections.
+47. Inside the battery, negative ions move from the negative to the positive terminal of the battery. Positive ions move in the opposite direction. In the external circuit, electrons leave the negative battery terminal, travel through the circuit and return to the battery at the positive terminal.
+48. A battery that is being charged. 
+49. The magnetic field of a solenoid and a bar magnet.
+50. The mass of the spherical body to the left can be thought to be concentrated at its center.

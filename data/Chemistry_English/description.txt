@@ -1,0 +1,70 @@
+1. A combustion spoon holding sodium, is lowered into a gas jar containing chlorine. 
+2. Representation of the arrangement of the particles of the same substance in the solid, liquid, and gas states.
+3. Temperature change versus energy input at fixed pressure as a solid substance is heated. The flat regions shown in red are where the state change is occurring, as heat energy is used to overcome the inter-particle forces.
+4. 100 atoms of H, O, and S have the same pass ratio as one atom of each element, 1:16:32.
+5. Apparatus used to investigate mass changes on burning magnesium.
+6. Molecular model of the stimulant, caffeine. The atoms are colour coded as follows: black = carbon, grey = hydrogen, red = oxygen, blue = nitrogen.
+7. The Bunsen burner.
+8. Boyle's law. PV = a constant.
+9. Glassware commonly used in the laboratory. (a) conical or Erlenmeyer fl ask – its shape makes it easy to mix liquids as the fl ask can be easily swirled; (b) beaker; (c) measuring cylinder; (d) volumetric fl ask; (e) pipette; (f) burette. Standard solutions are prepared using volumetric flasks.
+10. The hydrogen atom shown as a nucleus (a proton, pink), and an electron orbiting in a wavy path (light blue). It is necessary to consider the wave properties of the electron to understand atomic structure in detail.
+11. A model of a water molecule made from two hydrogen atoms and one oxygen atom. Dalton’s picture of the atom as a hard ball is the basis behind the molecular models we use today.
+12. A continuous spectrum is produced when white light is passed through a prism.
+13. The first ionization energies of the first 20 elements.
+14. The melting points show a periodic pattern as the bonding changes from metallic, to giant covalent, to simple molecular.
+15. Emeralds are green due to trace amounts of chromium.
+16. Models of H2O, NH3, and CH4 showing the different molecular geometry due to the different numbers of lone pairs on the central atom.
+17. Graphite occurs naturally, and a single separated layer is graphene, A rolled up layer of graphene is a nanotube, and a closed cage is fullerene.
+18. A model of metallic bonding.
+19. Formation of pi bond by sideways overlap of p orbitals. The electron density is greatest in two regions above and below the bond axis.
+20. Structure of methane. The tetrahedral shape is formed by the four sp3 hybrid orbitals, which each overlap with the s orbital of an H atom. All bonds are sigma bonds.
+21. The heat produced by the combustion of the fuel is calculated from the temperature change of the water in the metal calorimeter. Copper is a good conductor of heat, so heat from the flame can be transferred to the water.
+22. An ion pair of cation and anion. Note that both ions are spherical. This is one of the assumptions of the ionic model.
+23. An expression of the Second Law of Thermodynamic. 
+24. Experiments to measure rate of reaction by following change in volume against time. (Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g))
+25. Experiment to measure rate of reaction by following change in mass against time.(CaCO3(s) + 2HCl (aq) → CaCl2(aq) + CO2(g) + H2O(l))
+26. A spectrophotometer measures absorbance, which directly relates to concentration. Light of a specific wavelength is selected from an internal source and passes through the solution placed in the cuvette. The transmitted light passes through a diffraction gating, then the diffracted light is collected and changed into a digital signal by the CCD detector.
+27. Particles react by colliding.
+28. Maxwell-Boltzmann distribution showing how the activation energy, E_a, distinguishes between particles which have greater or lesser values of kinetic energy.
+29. Effect of concentration on collision frequency.
+30. Effect of a catalyst on lowering the activation energy of a reaction.
+31. The structure of oxidized buckminsterfullerene.
+32. Establishing dynamic equilibrium in the evaporation of bromine. 
+33. Simple titration apparatus.
+34. A weak acid-strong base titration showing how phenolphthalein will change color and so effectively signal when equivalence is reached.
+35. Test tubes containing normal rain water (left) and acid rain (right) with universal indicator solution added to show acidity. The normal rain water has a pH of above 5.6, while the acid rain has a lower pH. In this example the pH = 4.0.
+36. The formation of acid deposition.
+37. Magnesium ribbon burning in air.
+38. The reaction of zinc with copper(II) sulfate solution.
+39. A strip of zinc metal half, submerged in a solution of CuSO4. Solid copper that appears brown is deposited and the blue color fades as the copper ions are reduced by the zinc. Zinc is shown to be the stronger reducing agent.
+40. Copper and zinc half-cells
+41. Zinc atoms form zinc ions by releasing electrons. 
+42. A copper-zinc voltaic cell.
+43. A silver-zinc voltaic cell.
+44. A silver-copper voltaic cell.
+45. The standard hydrogen electrode (SHE)
+46. Components of an electrolytic cell.
+47. Apparatus for electroplating silver.
+48. Some examples of alkanes.
+49. Different representations of the same molecule C5H12 pentane.
+50. Butan-2-ol, a secondary alcohol. 
+51. A molecular model of propene, C3H6.
+52. A summary of the addition reactions of alkenes.
+53. Alcohol burning in a beaker.
+54. Some pathways of conversion of organic compounds.
+55. Schematic representation of a polarimeter.
+56. IR Radiation can cause a bond to stretch or bend.
+57. Simplified diagram of a NMR spectrometer. The strength of the magnetic field is varied until the radio waves cause the nuclei to flip from one energy level to another.
+58. Electromagnetic waves, such as X rays, are diffracted when they interfere with each other due to the presence of objects in their path.
+59. This is an electron diffraction pattern of a binary alloy of 90% titanium and 10% nickel. The pattern can be explained by considering an electron as a wave.
+60. The purification of copper using electrolysis. Reactions at the electrodes result in a net transfer of copper from the anode to the cathode.
+
+
+
+
+
+
+
+
+
+
